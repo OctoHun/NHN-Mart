@@ -1,0 +1,10 @@
+2023-09-01 17:56:25,114 [main] WARN c.n.m.Customer [Customer.java:41] - 검색 실패! 상품이 존재하지 않음
+2023-09-03 21:15:24,087 [main] WARN c.n.m.Customer [Customer.java:44] - 탐색 결과: 개수가 부족함
+2023-09-03 21:15:28,357 [main] WARN c.n.m.Customer [Customer.java:41] - 검색 실패! 상품이 존재하지 않음
+2023-09-03 21:15:33,433 [main] WARN c.n.m.Customer [Customer.java:44] - 탐색 결과: 개수가 부족함
+2023-09-03 21:18:12,750 [main] WARN c.n.m.Customer [Customer.java:44] - 탐색 결과: 개수가 부족함
+2023-09-03 21:18:12,753 [main] WARN c.n.m.Customer [Customer.java:41] - 검색 실패! 상품이 존재하지 않음
+2023-09-03 21:19:15,316 [main] WARN c.n.m.Customer [Customer.java:44] - 탐색 결과: 개수가 부족함
+2023-09-03 21:19:15,326 [main] WARN c.n.m.Customer [Customer.java:41] - 검색 실패! 상품이 존재하지 않음
+2023-09-03 21:20:04,846 [main] WARN c.n.m.Customer [Customer.java:44] - 탐색 결과: 개수가 부족함
+2023-09-03 21:20:04,848 [main] WARN c.n.m.Customer [Customer.java:41] - 검색 실패! 상품이 존재하지 않음
